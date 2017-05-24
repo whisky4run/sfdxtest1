@@ -1,0 +1,127 @@
+[
+    [
+        "/Users/stohru/DEV_personal/github_whisky4run/sfdxtest1/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stohru/DEV_personal/github_whisky4run/sfdxtest1/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1495633248000,
+            "changeTime": 1495633248000,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/stohru/DEV_personal/github_whisky4run/sfdxtest1/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stohru/DEV_personal/github_whisky4run/sfdxtest1/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1495633248000,
+            "changeTime": 1495633248000,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stohru/DEV_personal/github_whisky4run/sfdxtest1/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/stohru/DEV_personal/github_whisky4run/sfdxtest1/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 170,
+            "modifiedTime": 1495636434000,
+            "changeTime": 1495636434000,
+            "contentHash": "7ec6e9147870b9cc1839accc8d9ca7b0cec17ce4"
+        }
+    ],
+    [
+        "/Users/stohru/DEV_personal/github_whisky4run/sfdxtest1/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stohru/DEV_personal/github_whisky4run/sfdxtest1/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 68,
+            "modifiedTime": 1495633248000,
+            "changeTime": 1495633248000,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stohru/DEV_personal/github_whisky4run/sfdxtest1",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stohru/DEV_personal/github_whisky4run/sfdxtest1",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 340,
+            "modifiedTime": 1495634167000,
+            "changeTime": 1495634167000,
+            "contentHash": "bf256d9a656f9d25fc9ce6bcbc3d6f6eda78d045",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stohru/DEV_personal/github_whisky4run/sfdxtest1/force-app/main/default/objects/ProductModelMaster__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/stohru/DEV_personal/github_whisky4run/sfdxtest1/force-app/main/default/objects/ProductModelMaster__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3999,
+            "modifiedTime": 1495636434000,
+            "changeTime": 1495636434000,
+            "contentHash": "f7aef2421701ccf640bf2b197ba280ab69cafd5c"
+        }
+    ],
+    [
+        "/Users/stohru/DEV_personal/github_whisky4run/sfdxtest1/force-app/main/default/tabs/ProductModelMaster__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/stohru/DEV_personal/github_whisky4run/sfdxtest1/force-app/main/default/tabs/ProductModelMaster__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 221,
+            "modifiedTime": 1495636434000,
+            "changeTime": 1495636434000,
+            "contentHash": "6115f4b6987f7be41d2e59fdeace0d3f467cb9f2"
+        }
+    ],
+    [
+        "/Users/stohru/DEV_personal/github_whisky4run/sfdxtest1/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/stohru/DEV_personal/github_whisky4run/sfdxtest1/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1495636434000,
+            "changeTime": 1495636434000,
+            "contentHash": "e537b0feaf8950a00ddc8d989c562a422241a56a"
+        }
+    ],
+    [
+        "/Users/stohru/DEV_personal/github_whisky4run/sfdxtest1/force-app/main/default/tabs",
+        {
+            "state": "u",
+            "sourcePath": "/Users/stohru/DEV_personal/github_whisky4run/sfdxtest1/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1495636434000,
+            "changeTime": 1495636434000,
+            "contentHash": "864c6b3a60e652d723029a5a7c4b1927ad0bb9ef"
+        }
+    ]
+]

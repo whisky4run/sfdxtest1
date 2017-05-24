@@ -1,2 +1,31 @@
+■
+
+
 ・sfdx
 
+■sfdx commandメモ
+
+
+
+
+■デモシナリオ
+1. Force.com IDE2を立ち上げる
+2. sfdxコマンドで認証する (@Force.com console)
+	> auth:web:login -d
+		id: dxpilot+suzuki.toru.001@canon-its.co.jp
+		// -d オプションをつけることで以降のコマンドで defaulthubusername 指定される
+3. Scratch orgを作成する
+	> org:create -s -f config/workspace-scratch-def.json
+		// -s オプションをつけることで defaulthubusername が使われる
+4. 環境ハブ画面で、Scratch Orgが作成されたことを確認する
+5. Scratch org を開く
+	> org:open
+		// Scratch Org として出来上がるのはちょっと時間がかかる
+		// Scratch Org になると有効期限が短くなる (1W)
+		// Scratch Org が Sandbox より機能的に劣る箇所は不明
+6. Scratch org を削除する
+	> org:delete -p -u [username]
+7. Scratch org が削除されていることを確認する
+		// エラーになる
+
+	

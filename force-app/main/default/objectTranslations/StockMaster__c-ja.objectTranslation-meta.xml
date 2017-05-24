@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>在庫マスタ</value>
+    </caseValues>
+    <fields>
+        <label><!-- 数量 --></label>
+        <name>Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- 製品モデル --></label>
+        <name>ProductModel__c</name>
+        <relationshipLabel><!-- 在庫マスタ --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- 在庫評価額 --></label>
+        <name>StockCost__c</name>
+    </fields>
+</CustomObjectTranslation>

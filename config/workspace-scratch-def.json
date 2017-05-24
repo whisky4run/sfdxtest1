@@ -2,9 +2,9 @@
   "Company": "Whisky Company",
   "Country": "JP",
   "LastName": "Toru",
-  "FistName": "Suzuki",
+  "FirstName": "Suzuki",
   "Email": "suzuki.toru.001@canon-its.co.jp",
-  "Edition": "Enterprise",
+  "Edition": "Developer",
   "OrgPreferences" : {
     "S1DesktopEnabled" : true
   }
