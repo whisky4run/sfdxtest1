@@ -1,9 +1,10 @@
 {
-  "Company": "stohru Company",
-  "Country": "US",
-  "LastName": "stohru",
-  "Email": "stohru@example.com",
-  "Edition": "Developer",
+  "Company": "Whisky Company",
+  "Country": "JP",
+  "LastName": "Toru",
+  "FistName": "Suzuki",
+  "Email": "suzuki.toru.001@canon-its.co.jp",
+  "Edition": "Enterprise",
   "OrgPreferences" : {
     "S1DesktopEnabled" : true
   }
